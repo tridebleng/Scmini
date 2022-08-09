@@ -1,0 +1,2 @@
+# Scmini
+Sc buat ku
