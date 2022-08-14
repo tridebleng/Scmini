@@ -50,7 +50,7 @@ echo -e " \E[41;1;39m                     ⇱ MENU PANEL VPS ⇲                
 echo -e "\033[0;32m╘═════════════════════════════════════════════════════════════╛\033[0m${NC}"
 echo -e "
   [${GREEN}01${NC}]${color1} •${color3}$bd PANEL SSH & OVPN (${color2}menu-ssh${color3})
-  [${GREEN}02${NC}]${color1} •${color3}$bd PANEL V2ray Vmess & Vless (${color2}menu-wireguard${color3})
+  [${GREEN}02${NC}]${color1} •${color3}$bd PANEL V2ray Vmess & Vless (${color2}menu-xray${color3})
   [${GREEN}03${NC}]${color1} •${color3}$bd GANTI Port All Acount (${color2}menu-port${color3})
   [${GREEN}04${NC}]${color1} •${color3}$bd CEK Status Layanan (${color2}running${color3})
   [${GREEN}05${NC}]${color1} •${color3}$bd MENU Tools (${color2}tools${color3})
